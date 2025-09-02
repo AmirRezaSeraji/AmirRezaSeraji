@@ -23,9 +23,11 @@ My focus is on building **high-availability platforms**, automating complex work
 
 ---
 
-## 🛠 Tech Stack:
+## 🛠 Core Skills & Tools:
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash Script](https://img.shields.io/badge/Bash_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Golang](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
@@ -40,13 +42,5 @@ My focus is on building **high-availability platforms**, automating complex work
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 
----
-
-## 📊 GitHub Stats:
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirRezaSeraji&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirRezaSeraji&layout=compact&theme=radical)
-
----
 
 ⭐️ From [AmirRezaSeraji](https://github.com/AmirRezaSeraji)
