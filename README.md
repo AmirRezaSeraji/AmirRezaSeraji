@@ -16,8 +16,8 @@ Skilled in automating, optimizing, and managing production-ready systems using m
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amir-seraji/)
 [![Twitter](https://img.shields.io/badge/TWITTER-blue?style=for-the-badge&logo=twitter)](https://twitter.com/YOUR_TWITTER)
-[![Telegram](https://img.shields.io/badge/TELEGRAM-blue?style=for-the-badge&logo=telegram)](https://t.me/YOUR_TELEGRAM)
-[![Website](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://YOUR-WEBSITE.com)
+[![Telegram](https://img.shields.io/badge/TELEGRAM-blue?style=for-the-badge&logo=telegram)](https://t.me/arseraji)
+[![Website](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://linuxstack.ir)
 
 ---
 
