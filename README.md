@@ -12,10 +12,11 @@ Skilled in automating, optimizing, and managing production-ready systems using m
 ---
 
 ## Socials:
-
+[![Phone](https://img.shields.io/badge/PHONE-+989362329241-2ea44f?style=for-the-badge&logo=telephone&logoColor=white)](tel:+989362329241)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amir-seraji/)
 [![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.seraji@gmail.com)
 [![Telegram](https://img.shields.io/badge/TELEGRAM-blue?style=for-the-badge&logo=telegram)](https://t.me/arseraji)
+[![WhatsApp](https://img.shields.io/badge/WHATSAPP-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/989362329241)
 [![Website](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://linuxstack.ir)
 
 ---
