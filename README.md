@@ -13,7 +13,7 @@ My focus is on building **high-availability platforms**, automating complex work
 
 ---
 
-## Socials:
+## Connect with me:
 [![Phone](https://img.shields.io/badge/PHONE-+989362329241-2ea44f?style=for-the-badge&logo=telephone&logoColor=white)](tel:+989362329241)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amir-seraji/)
 [![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.seraji@gmail.com)
