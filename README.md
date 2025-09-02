@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-# Hi there 👋
 
 ## Summary:
 Detail-oriented, quick, and self-directed **DevOps Engineer** with hands-on experience in Cloud, DevOps, and infrastructure projects.  
