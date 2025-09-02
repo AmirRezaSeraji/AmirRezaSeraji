@@ -2,7 +2,7 @@
 
 
 ## Summary:
-I am a DevOps & Cloud Infrastructure Engineer with a strong background in designing, deploying, and maintaining scalable systems.  
+I am a DevOps & Linux System Administrator with a strong background in designing, deploying, and maintaining scalable systems.  
 My focus is on building **high-availability platforms**, automating complex workflows, and enabling faster, more reliable software delivery.
 
 🔧 Skilled in Kubernetes, Docker, GitLab CI/CD, Jenkins, and infrastructure-as-code tools (Terraform, Ansible)  
@@ -41,6 +41,7 @@ My focus is on building **high-availability platforms**, automating complex work
   <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" alt="zabbix" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elk" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/ceph/ceph-icon.svg" alt="ceph" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="apache" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
