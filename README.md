@@ -2,12 +2,14 @@
 
 
 ## Summary:
-Detail-oriented, quick, and self-directed **DevOps Engineer** with hands-on experience in Cloud, DevOps, and infrastructure projects.  
-Skilled in automating, optimizing, and managing production-ready systems using modern DevOps tools and best practices.
+I am a DevOps & Cloud Infrastructure Engineer with a strong background in designing, deploying, and maintaining scalable systems.  
+My focus is on building **high-availability platforms**, automating complex workflows, and enabling faster, more reliable software delivery.
 
-🌍 Currently working on enterprise infrastructure projects  
-🚀 Passionate about Cloud, Kubernetes, and CI/CD automation  
-🤝 Open to collaborating on open-source DevOps tools and projects  
+🔧 Skilled in Kubernetes, Docker, GitLab CI/CD, Jenkins, and infrastructure-as-code tools (Terraform, Ansible)  
+📊 Experienced in observability stacks like Prometheus, Grafana, Zabbix, and ELK for monitoring & troubleshooting  
+💡 Enthusiastic about bridging the gap between development and operations to accelerate business outcomes  
+🌍 Currently working on enterprise cloud-native projects and exploring advanced GitOps practices with ArgoCD  
+🚀 Always learning, sharing, and collaborating on open-source and community-driven DevOps initiatives
 
 ---
 
